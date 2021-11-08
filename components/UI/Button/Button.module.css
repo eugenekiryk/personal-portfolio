@@ -1,0 +1,20 @@
+.button {
+  background: transparent;
+  border: 2px solid;
+  color: #022b3a;
+  font-weight: bold;
+  font-size: 1rem;
+  font-family: inherit;
+  padding: 0.6rem 0.9rem;
+  border-radius: 0.2rem;
+  box-shadow: 0 0 0.2rem #ccc;
+  cursor: pointer;
+  min-width: 7.5rem;
+}
+
+.button:hover {
+  background-color: #022b3a;
+  color: #ffffff;
+  border-color: #022b3a;
+  box-shadow: 0.3rem 0.3rem rgba(255, 183, 3, 0.7);
+}

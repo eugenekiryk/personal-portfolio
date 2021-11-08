@@ -1,0 +1,18 @@
+.layout {
+  max-width: 90vw;
+  margin: auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+}
+
+@media (min-width: 40rem) {
+  .layout {
+    max-width: 80vw;
+  }
+}

@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  font-size: 1.2rem;
+}
+
+.header a {
+  text-decoration-color: #1f7a8c;
+  color: #022b3a;
+  font-weight: bold;
+}
+
+.header a:hover {
+  color: #ffb703;
+}
+
+.links {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+  padding: 2rem 0;
+}
+
+@media (min-width: 40rem) {
+  .header {
+    font-size: 1.5rem;
+    justify-content: flex-end;
+  }
+}
