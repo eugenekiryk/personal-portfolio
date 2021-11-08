@@ -14,6 +14,8 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+You can now edit pages, components and styles in the respective folders. 
+
 ## Built with
 
 - CSS Modules, vanilla CSS, Flexbox
