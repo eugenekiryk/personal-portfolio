@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <Layout>
       <Head>
-        <title>contact | Eugene Kiryk</title>
+        <title>Contact | Eugene Kiryk</title>
       </Head>
     </Layout>
   );

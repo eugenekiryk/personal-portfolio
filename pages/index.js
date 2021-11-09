@@ -10,30 +10,28 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>home | Eugene Kiryk</title>
+        <title>Home | Eugene Kiryk</title>
       </Head>
       <section className={styles.container}>
         <div className={styles.intro}>
           <h1 className={styles.hello}>
-            hi there, <br /> my name is{' '}
+            Hi there, <br /> my name is{' '}
             <span className={styles.name}>
-              <Link href="/about">
-                <a>Eugene</a>
-              </Link>
+              Eugene
             </span>
             <br />
             I am a <span className={styles.occupation}>front-end developer</span>
           </h1>
-          <h2 className={styles.welcome}>welcome to my portfolio!</h2>
+          <h2 className={styles.welcome}>Welcome to my portfolio!</h2>
           <div className={styles.buttons}>
             <Link href="/work">
               <a>
-                <Button>my projects</Button>
+                <Button>My Projects</Button>
               </a>
             </Link>
             <Link href="/contact">
               <a>
-                <Button>contact me</Button>
+                <Button>Contact Me</Button>
               </a>
             </Link>
           </div>

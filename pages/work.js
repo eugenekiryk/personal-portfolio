@@ -5,7 +5,7 @@ export default function Work() {
   return (
     <Layout>
       <Head>
-        <title>work | Eugene Kiryk</title>
+        <title>Work | Eugene Kiryk</title>
       </Head>
     </Layout>
   );

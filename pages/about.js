@@ -5,7 +5,7 @@ export default function About() {
   return (
     <Layout>
       <Head>
-        <title>about | Eugene Kiryk</title>
+        <title>About | Eugene Kiryk</title>
       </Head>
     </Layout>
   );

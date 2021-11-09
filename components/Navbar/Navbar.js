@@ -9,17 +9,17 @@ export default function Navbar() {
         <ul className={styles.links}>
           <li>
             <Link href="/work">
-              <a>work</a>
+              <a>Work</a>
             </Link>
           </li>
           <li>
             <Link href="/about">
-              <a>about me</a>
+              <a>About me</a>
             </Link>
           </li>
           <li>
             <Link href="/contact">
-              <a>contact</a>
+              <a>Contact</a>
             </Link>
           </li>
         </ul>

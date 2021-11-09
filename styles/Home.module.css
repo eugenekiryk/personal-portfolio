@@ -18,22 +18,9 @@
   font-size: 2rem;
 }
 
-.name,
-.name a:visited {
+.occupation,
+.name {
   color: #1f7a8c;
-}
-
-.name a {
-  text-decoration: none;
-}
-
-.name:hover {
-  text-shadow: 4px 4px #ffb703;
-  cursor: pointer;
-}
-
-.occupation {
-  color: #ffb703;
 }
 
 .welcome {
