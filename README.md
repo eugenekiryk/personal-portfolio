@@ -1,5 +1,7 @@
 # Personal Portfolio Website
 
+Coming soon...
+
 My personal portfolio website bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -14,7 +16,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can now edit pages, components and styles in the respective folders. 
+You can now edit pages, components and styles in the respective folders.
 
 ## Built with
 
